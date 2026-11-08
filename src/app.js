@@ -17,6 +17,24 @@ const url = (p, w) => `${D.base}img/${p.k}-${pick(p, w)}.webp`;
 const srcset = (p) => p.ws.map((w) => `${D.base}img/${p.k}-${w}.webp ${w}w`).join(", ");
 const lock = () => { html.style.overflow = body.classList.contains("menuopen") || $("#lb").classList.contains("open") || $("#sdlg").open ? "hidden" : ""; };
 
+/* ===== Кнопка «Назад» закриває перегляд фото, а не сайт ===== */
+// Відкриваючи галерею чи вікно номера, додаємо запис в історію (адреса та сама). «Назад» лише закриває вікно,
+// а сторінка лишається на тому місці, де натиснули на фото.
+let view = null, viewY = 0, afterPop = null;
+const viewOpen = (kind) => { if (view) return; view = kind; viewY = scrollY; history.pushState({ cbaView: kind }, ""); };
+const restoreY = () => { if (Math.abs(scrollY - viewY) > 2) scrollTo({ top: viewY, behavior: "instant" }); };
+const viewClosed = () => { // вікно закрили кнопкою, Esc чи кліком — прибираємо свій запис з історії
+  if (!view) return;
+  view = null;
+  if (history.state && history.state.cbaView) history.back(); else { restoreY(); afterPop && afterPop(); afterPop = null; }
+};
+addEventListener("popstate", () => {
+  if (view === "lb" && $("#lb").classList.contains("open")) { view = null; lbClose(); }
+  else if (view === "dlg" && $("#sdlg").open) { view = null; $("#sdlg").close(); }
+  view = null;
+  requestAnimationFrame(() => { restoreY(); if (afterPop) { afterPop(); afterPop = null; } });
+});
+
 /* ===== Шапка, плаваюча кнопка, активний пункт меню ===== */
 const hdr = $("#hdr"), fab = $("#fab"), hero = $(".hero");
 let lastY = scrollY, bookVisible = false;
@@ -156,14 +174,18 @@ function openSuite(id) {
   });
   $("#sdBk").href = `${D.links.booking}#RD${cur.bk}`;
   showPhoto(0);
-  dlg.showModal(); lock();
+  dlg.showModal(); lock(); viewOpen("dlg");
 }
 $$("[data-suite]").forEach((b) => b.addEventListener("click", () => openSuite(b.dataset.suite)));
 dlg.addEventListener("click", (e) => { if (e.target === dlg || e.target.closest("[data-close]")) dlg.close(); });
-dlg.addEventListener("close", lock);
+dlg.addEventListener("close", () => { lock(); viewClosed(); });
 dlg.addEventListener("keydown", (e) => { if (e.key === "ArrowRight") showPhoto(curI + 1); if (e.key === "ArrowLeft") showPhoto(curI - 1); });
 swipe($(".sd-main"), (d) => showPhoto(curI + d));
-$("#sdAsk").addEventListener("click", () => { $("#fSuite").value = cur.id; dlg.close(); updKey(); });
+$("#sdAsk").addEventListener("click", (e) => {
+  e.preventDefault(); $("#fSuite").value = cur.id; updKey();
+  afterPop = () => $("#book").scrollIntoView({ behavior: reduce ? "auto" : "smooth" });
+  dlg.close();
+});
 
 /* ===== Басейн: хвилі на воді (WebGL) ===== */
 const pool = $("#pool"), cv = $("#water");
@@ -318,6 +340,7 @@ function lbShow(i) {
 const vt = !!document.startViewTransition && !reduce;
 function lbOpen(i) {
   const th = $("img", vis[i]);
+  viewOpen("lb");
   const go = () => { if (th) th.style.viewTransitionName = ""; lbShow(i); lb.classList.add("open"); lb.setAttribute("aria-hidden", "false"); lock(); $(".x", lb).focus({ preventScroll: true }); };
   if (!vt) return go();
   if (th) th.style.viewTransitionName = "lbimg";
@@ -325,6 +348,7 @@ function lbOpen(i) {
   t.ready.catch(() => {}); t.finished.catch(() => {});
 }
 function lbClose() {
+  viewClosed();
   const th = vis[li] && $("img", vis[li]);
   const go = () => { lb.classList.remove("open"); lb.setAttribute("aria-hidden", "true"); lock(); if (vt && th && isVisible(th)) th.style.viewTransitionName = "lbimg"; vis[li] && vis[li].focus({ preventScroll: true }); };
   if (!vt) return go();
