@@ -1,0 +1,36 @@
+{
+  "_note": "Фото для сайту. Ключ = назва файлу в dist/img/. src — оригінал, set — набір ширин. Після змін: npm run images",
+  "sets": {
+    "hero":  { "w": [800, 1200, 1800, 2400] },
+    "photo": { "w": [480, 800, 1200, 1800] },
+    "tour":  { "w": [480, 800, 1200] },
+    "badge": { "w": [240, 480] }
+  },
+  "items": {
+    "474756863": { "src": "assets/booking/474756863.jpg", "set": "hero" },
+    "612644740": { "src": "assets/booking/612644740.jpg", "set": "hero" },
+    "474754100": { "src": "assets/booking/474754100.jpg", "set": "hero" },
+    "courtyard-dusk": { "src": "assets/extra/courtyard-dusk.jpg", "set": "photo" },
+    "facade-pool": { "src": "assets/extra/facade-pool.jpg", "set": "photo" },
+    "929254717": { "src": "assets/booking/929254717.jpg", "set": "badge" },
+    "t-arieiro": { "src": "assets/tours/arieiro.jpg", "set": "tour" },
+    "t-monte": { "src": "assets/tours/monte.jpg", "set": "tour" },
+    "t-botanico": { "src": "assets/tours/botanico.jpg", "set": "tour" },
+    "t-girao": { "src": "assets/tours/girao.jpg", "set": "tour" },
+    "t-camara": { "src": "assets/tours/camara.jpg", "set": "tour" },
+    "t-curral": { "src": "assets/tours/curral.jpg", "set": "tour" },
+    "t-balcoes": { "src": "assets/tours/balcoes.jpg", "set": "tour" },
+    "t-caldeirao": { "src": "assets/tours/caldeirao.jpg", "set": "tour" },
+    "t-fanal": { "src": "assets/tours/fanal.jpg", "set": "tour" },
+    "t-moniz": { "src": "assets/tours/moniz.jpg", "set": "tour" },
+    "t-seixal": { "src": "assets/tours/seixal.jpg", "set": "tour" },
+    "t-veu": { "src": "assets/tours/veu.jpg", "set": "tour" },
+    "t-santana": { "src": "assets/tours/santana.jpg", "set": "tour" },
+    "t-lourenco": { "src": "assets/tours/lourenco.jpg", "set": "tour" },
+    "t-pontasol": { "src": "assets/tours/pontasol.jpg", "set": "tour" },
+    "t-yacht": { "src": "assets/tours/yacht.jpg", "set": "tour" },
+    "t-desertas": { "src": "assets/tours/desertas.jpg", "set": "tour" },
+    "t-portosanto": { "src": "assets/tours/portosanto.jpg", "set": "tour" }
+  },
+  "allBooking": "photo"
+}

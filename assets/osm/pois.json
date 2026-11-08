@@ -1,0 +1,2529 @@
+[
+[
+"026: Centro → Levada de Santa Luzia",
+"",
+32.656113,
+-16.90843,
+"relation"
+],
+[
+"026: Levada de Santa Luzia → Centro",
+"",
+32.656359,
+-16.908646,
+"relation"
+],
+[
+"033: Balancal → Centro (via Bairro Santa Maria)",
+"",
+32.654216,
+-16.89259,
+"relation"
+],
+[
+"033: Centro → Balancal (via Bairro Santa Maria)",
+"",
+32.654282,
+-16.892226,
+"relation"
+],
+[
+"070: Centro → Santa Luzia",
+"",
+32.654291,
+-16.906599,
+"relation"
+],
+[
+"070: Santa Luzia → Centro",
+"",
+32.654468,
+-16.906319,
+"relation"
+],
+[
+"082: Dom João → São Tiago",
+"",
+32.653561,
+-16.90315,
+"relation"
+],
+[
+"082: São Tiago → Dom João",
+"",
+32.653565,
+-16.903145,
+"relation"
+],
+[
+"131: Centro → Teleférico Jardim Botânico",
+"",
+32.655368,
+-16.900406,
+"relation"
+],
+[
+"131: Teleférico Jardim Botânico → Centro",
+"",
+32.655291,
+-16.90077,
+"relation"
+],
+[
+"APS Magnólia",
+"highway=bus_stop",
+32.644509,
+-16.926228,
+"node"
+],
+[
+"AV Colégio Militar",
+"highway=bus_stop",
+32.646414,
+-16.932295,
+"node"
+],
+[
+"Adro da Sé",
+"highway=pedestrian",
+32.648217,
+-16.908362,
+"way"
+],
+[
+"Almirante Reis",
+"amenity=taxi",
+32.647375,
+-16.902907,
+"node"
+],
+[
+"Almirante Reis",
+"place=locality",
+32.647291,
+-16.902123,
+"node"
+],
+[
+"Alto Lido",
+"highway=bus_stop",
+32.638267,
+-16.935801,
+"way"
+],
+[
+"Alto Lido",
+"tourism=hotel",
+32.638344,
+-16.936137,
+"node"
+],
+[
+"Auto-Silo do Campo da Barca",
+"amenity=parking",
+32.653019,
+-16.901879,
+"way"
+],
+[
+"Avenida Arriaga",
+"highway=pedestrian",
+32.647401,
+-16.910732,
+"way"
+],
+[
+"Avenida Arriaga",
+"highway=secondary",
+32.646676,
+-16.912729,
+"way"
+],
+[
+"Avenida Arriaga",
+"highway=secondary",
+32.646881,
+-16.91228,
+"way"
+],
+[
+"Avenida Arriaga",
+"highway=secondary",
+32.647047,
+-16.911867,
+"way"
+],
+[
+"Avenida Arriaga",
+"highway=tertiary",
+32.646809,
+-16.91282,
+"way"
+],
+[
+"Avenida Arriaga",
+"highway=tertiary",
+32.646873,
+-16.912632,
+"way"
+],
+[
+"Avenida Arriaga",
+"highway=tertiary",
+32.647041,
+-16.912255,
+"way"
+],
+[
+"Avenida Arriaga",
+"highway=tertiary",
+32.64707,
+-16.911894,
+"way"
+],
+[
+"Avenida Arriaga",
+"highway=tertiary",
+32.647121,
+-16.911911,
+"way"
+],
+[
+"Avenida Arriaga",
+"highway=tertiary",
+32.647155,
+-16.911959,
+"way"
+],
+[
+"Avenida Arriaga",
+"highway=tertiary",
+32.647187,
+-16.911924,
+"way"
+],
+[
+"Avenida Arriaga",
+"highway=tertiary",
+32.647228,
+-16.911825,
+"way"
+],
+[
+"Avenida Arriaga",
+"highway=tertiary",
+32.647624,
+-16.910772,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.643806,
+-16.934343,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.643901,
+-16.934204,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.643936,
+-16.934324,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.644004,
+-16.934468,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.644012,
+-16.933965,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.644041,
+-16.934272,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.644136,
+-16.934071,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.644159,
+-16.933645,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.644287,
+-16.933319,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.644342,
+-16.933568,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.644402,
+-16.932986,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.644421,
+-16.93316,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.644517,
+-16.932644,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.644544,
+-16.933021,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.64461,
+-16.932397,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.644649,
+-16.932468,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.644656,
+-16.932679,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.644755,
+-16.932196,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.644795,
+-16.932276,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.644925,
+-16.931991,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.645184,
+-16.931813,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.64562,
+-16.931634,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.64622,
+-16.931998,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.64674,
+-16.932301,
+"way"
+],
+[
+"Avenida do Colégio Militar",
+"highway=residential",
+32.646754,
+-16.932535,
+"way"
+],
+[
+"Barreirinha",
+"place=neighbourhood",
+32.646707,
+-16.897494,
+"node"
+],
+[
+"Barreirinha",
+"tourism=viewpoint",
+32.646827,
+-16.897611,
+"node"
+],
+[
+"Barreirinha",
+"tourism=viewpoint",
+32.646896,
+-16.896788,
+"node"
+],
+[
+"Barreirinha Bar Café",
+"amenity=bar",
+32.647025,
+-16.897326,
+"node"
+],
+[
+"Barreirinha Bar Café",
+"building=retail",
+32.647073,
+-16.897328,
+"way"
+],
+[
+"Blandy Travel",
+"shop=travel_agency",
+32.647256,
+-16.909396,
+"node"
+],
+[
+"Blandy's",
+"shop=alcohol",
+32.647788,
+-16.910664,
+"node"
+],
+[
+"Blandy's Wine Lodge",
+"tourism=museum",
+32.647827,
+-16.910578,
+"node"
+],
+[
+"Blandy‘s",
+"amenity=cafe",
+32.643669,
+-16.914322,
+"node"
+],
+[
+"CR7 Corner",
+"amenity=restaurant",
+32.643886,
+-16.913999,
+"node"
+],
+[
+"CZ Lido",
+"highway=bus_stop",
+32.638103,
+-16.930296,
+"node"
+],
+[
+"Calçada de São Lourenço",
+"highway=service",
+32.647124,
+-16.91075,
+"way"
+],
+[
+"Calçada de São Lourenço",
+"highway=service",
+32.647529,
+-16.9109,
+"way"
+],
+[
+"Campo da Barca",
+"highway=bus_stop",
+32.652388,
+-16.901597,
+"node"
+],
+[
+"Campo da Barca",
+"highway=residential",
+32.65123,
+-16.901813,
+"way"
+],
+[
+"Campo da Barca",
+"highway=residential",
+32.651625,
+-16.901818,
+"way"
+],
+[
+"Campo da Barca",
+"place=neighbourhood",
+32.651586,
+-16.902105,
+"node"
+],
+[
+"Capela de Santa Catarina",
+"amenity=place_of_worship",
+32.645802,
+-16.913307,
+"way"
+],
+[
+"Capela de Santa Catarina",
+"tourism=viewpoint",
+32.645554,
+-16.913209,
+"node"
+],
+[
+"Capela de São Tiago Menor",
+"",
+32.648308,
+-16.90805,
+"way"
+],
+[
+"Casa Museu Frederico de Freitas",
+"tourism=museum",
+32.64989,
+-16.912345,
+"node"
+],
+[
+"Casino da Madeira",
+"tourism=attraction",
+32.643968,
+-16.916082,
+"node"
+],
+[
+"Center Marina view Yellow/Silwer/Brown/Gold... Studio",
+"tourism=apartment",
+32.646582,
+-16.91265,
+"node"
+],
+[
+"Centro Cultural da Quinta Magnólia",
+"amenity=arts_centre",
+32.643623,
+-16.925145,
+"node"
+],
+[
+"Centro Cívico de Santa Luzia Dr Virgílio Pereira",
+"building=yes",
+32.653951,
+-16.90528,
+"way"
+],
+[
+"Cervejaria do Colégio",
+"amenity=pub",
+32.649924,
+-16.907791,
+"node"
+],
+[
+"Clinica Dentaria São Lourenço e Centro ortodôntico do Funchal",
+"amenity=dentist",
+32.647053,
+-16.910788,
+"way"
+],
+[
+"Clínica Santa Catarina",
+"highway=bus_stop",
+32.654505,
+-16.914148,
+"node"
+],
+[
+"Clínica da Sé",
+"amenity=clinic",
+32.647739,
+-16.908269,
+"node"
+],
+[
+"Clínica de Santa Luzia",
+"amenity=clinic",
+32.654543,
+-16.911228,
+"way"
+],
+[
+"Colégio Da Rochinha",
+"amenity=kindergarten",
+32.652566,
+-16.899974,
+"way"
+],
+[
+"Colégio STA Teresinha D",
+"highway=bus_stop",
+32.656315,
+-16.904431,
+"node"
+],
+[
+"Colégio STA Teresinha S",
+"highway=bus_stop",
+32.655632,
+-16.904577,
+"node"
+],
+[
+"Colégio de Santa Teresinha",
+"amenity=school",
+32.656,
+-16.905137,
+"way"
+],
+[
+"Colégio dos Jesuítas do Funchal",
+"building=yes",
+32.650082,
+-16.909558,
+"relation"
+],
+[
+"Complexo Balnear da Barreirinha",
+"leisure=beach_resort",
+32.646634,
+-16.897286,
+"way"
+],
+[
+"Complexo Balnear do Lido",
+"leisure=beach_resort",
+32.635576,
+-16.932601,
+"way"
+],
+[
+"Câmara Municipal do Funchal",
+"amenity=townhall",
+32.650016,
+-16.908403,
+"relation"
+],
+[
+"Edifício Alto Lido",
+"building=hotel",
+32.638675,
+-16.936151,
+"way"
+],
+[
+"Edifício Alto Lido",
+"building=hotel",
+32.638712,
+-16.935927,
+"way"
+],
+[
+"Edifício Alto Lido",
+"building=yes",
+32.638554,
+-16.936402,
+"way"
+],
+[
+"Edifício Alto Lido",
+"building=yes",
+32.638726,
+-16.935656,
+"way"
+],
+[
+"Edifício Aqua Marina",
+"building=yes",
+32.639438,
+-16.933619,
+"way"
+],
+[
+"Edifício Bom Jesus do Lido",
+"building=apartments",
+32.639417,
+-16.928812,
+"way"
+],
+[
+"Edifício Bom Jesus do Lido",
+"building=apartments",
+32.639565,
+-16.929004,
+"way"
+],
+[
+"Edifício Bom Jesus do Lido",
+"building=apartments",
+32.639786,
+-16.929048,
+"way"
+],
+[
+"Edifício Colinas do Lido",
+"building=apartments",
+32.639123,
+-16.931954,
+"way"
+],
+[
+"Edifício Colinas do Lido",
+"building=apartments",
+32.639425,
+-16.931933,
+"way"
+],
+[
+"Edifício Colinas do Lido",
+"building=apartments",
+32.639688,
+-16.932028,
+"way"
+],
+[
+"Edifício Lido Sol",
+"building=apartments",
+32.638691,
+-16.934454,
+"way"
+],
+[
+"Edifício Magnólia",
+"building=apartments",
+32.64473,
+-16.926081,
+"way"
+],
+[
+"Edifício Magnólia",
+"building=apartments",
+32.644978,
+-16.926209,
+"way"
+],
+[
+"Edifício Magnólia",
+"building=yes",
+32.645194,
+-16.926006,
+"way"
+],
+[
+"Edifício Magnólia Palace",
+"building=yes",
+32.644971,
+-16.926951,
+"way"
+],
+[
+"Edifício Santa Catarina",
+"building=apartments",
+32.645688,
+-16.915971,
+"way"
+],
+[
+"Edifício Santa Catarina",
+"building=apartments",
+32.654676,
+-16.914577,
+"way"
+],
+[
+"Edifício Santa Catarina",
+"building=yes",
+32.654518,
+-16.914747,
+"way"
+],
+[
+"Edifício Santa Luzia",
+"building=yes",
+32.654671,
+-16.908567,
+"way"
+],
+[
+"Edifício Sé",
+"building=apartments",
+32.646723,
+-16.91356,
+"relation"
+],
+[
+"Edifício Séc. XXI 13",
+"building=apartments",
+32.647348,
+-16.927205,
+"way"
+],
+[
+"Edifício Séc. XXI 14",
+"building=apartments",
+32.646855,
+-16.92732,
+"way"
+],
+[
+"Edifício Séc. XXI 17",
+"building=apartments",
+32.646852,
+-16.927909,
+"way"
+],
+[
+"Edifício Séc. XXI Virtudes",
+"building=apartments",
+32.649804,
+-16.931908,
+"way"
+],
+[
+"Edifício Séc. XXI Virtudes",
+"building=apartments",
+32.649905,
+-16.931624,
+"way"
+],
+[
+"Edifício Séc. XXI Virtudes",
+"building=apartments",
+32.650098,
+-16.93203,
+"way"
+],
+[
+"Edifício Séc. XXI Virtudes",
+"building=apartments",
+32.650349,
+-16.932125,
+"way"
+],
+[
+"Edifício Séc. XXI Virtudes",
+"building=apartments",
+32.650624,
+-16.93184,
+"way"
+],
+[
+"Edifício Século XXI - 04",
+"building=apartments",
+32.639994,
+-16.927309,
+"way"
+],
+[
+"Edifício Século XXI - 04",
+"building=apartments",
+32.640117,
+-16.927359,
+"way"
+],
+[
+"Edifício Século XXI - 04",
+"building=apartments",
+32.640262,
+-16.927346,
+"way"
+],
+[
+"Edifício Século XXI 08",
+"building=apartments",
+32.646411,
+-16.918846,
+"way"
+],
+[
+"Edifício Século XXI 1",
+"building=apartments",
+32.658286,
+-16.927648,
+"way"
+],
+[
+"Edifício Século XXI 1",
+"building=apartments",
+32.658466,
+-16.927882,
+"way"
+],
+[
+"Edifício Século XXI 12",
+"building=apartments",
+32.639484,
+-16.934901,
+"way"
+],
+[
+"Edifício Século XXI 2",
+"building=apartments",
+32.658228,
+-16.928173,
+"way"
+],
+[
+"Edifício Século XXI 3",
+"building=apartments",
+32.647954,
+-16.93124,
+"way"
+],
+[
+"Edifício Século XXI 5",
+"building=apartments",
+32.658562,
+-16.92736,
+"way"
+],
+[
+"Edifício Século XXI 6",
+"building=apartments",
+32.658403,
+-16.928602,
+"way"
+],
+[
+"Edifício Século. XXI 9",
+"building=apartments",
+32.639634,
+-16.932693,
+"way"
+],
+[
+"Edifício Século. XXI 9",
+"building=apartments",
+32.639869,
+-16.932792,
+"way"
+],
+[
+"Edifício Varanda do Lido",
+"building=apartments",
+32.638413,
+-16.93041,
+"way"
+],
+[
+"Edifício do Cabido da Sé do Funchal",
+"historic=building",
+32.64836,
+-16.907882,
+"way"
+],
+[
+"Edifício do Campo da Barca",
+"building=yes",
+32.651951,
+-16.901411,
+"way"
+],
+[
+"Edifícios Século XXI 13 e 14",
+"",
+32.647023,
+-16.927225,
+"way"
+],
+[
+"Enotel Lido",
+"tourism=hotel",
+32.637477,
+-16.935645,
+"way"
+],
+[
+"Enotel Magnólia",
+"tourism=hotel",
+32.643646,
+-16.924448,
+"way"
+],
+[
+"Esplanada Teleférico",
+"amenity=cafe",
+32.647245,
+-16.902556,
+"way"
+],
+[
+"Esplanada Teleférico",
+"amenity=cafe",
+32.647266,
+-16.902558,
+"node"
+],
+[
+"Estacionamento do Plaza Madeira",
+"amenity=parking",
+32.64746,
+-16.914238,
+"relation"
+],
+[
+"Farmacia do Lido",
+"amenity=pharmacy",
+32.637833,
+-16.931601,
+"node"
+],
+[
+"Fortaleza",
+"amenity=cafe",
+32.651138,
+-16.916836,
+"way"
+],
+[
+"Fortaleza de Nossa Senhora da Conceição do Ilhéu",
+"historic=fort",
+32.641124,
+-16.915325,
+"way"
+],
+[
+"Fortaleza de São Filipe",
+"historic=ruins",
+32.647739,
+-16.905029,
+"way"
+],
+[
+"Fortaleza de São Lourenço",
+"historic=fort",
+32.647253,
+-16.910264,
+"way"
+],
+[
+"Fortaleza de São Tiago",
+"historic=fort",
+32.646669,
+-16.89865,
+"way"
+],
+[
+"Fortaleza do Pico",
+"historic=fort",
+32.650877,
+-16.916385,
+"way"
+],
+[
+"Forte de São Tiago",
+"",
+32.646699,
+-16.898563,
+"node"
+],
+[
+"Fortim do Lido",
+"amenity=cafe",
+32.635818,
+-16.933338,
+"way"
+],
+[
+"Fortim do Lido",
+"amenity=cafe",
+32.635954,
+-16.933618,
+"way"
+],
+[
+"Fortim do Lido",
+"historic=fort",
+32.635899,
+-16.933657,
+"way"
+],
+[
+"Funchal - Lido",
+"",
+32.636579,
+-16.935559,
+"node"
+],
+[
+"Galerias São Lourenço",
+"shop=mall",
+32.647064,
+-16.910973,
+"way"
+],
+[
+"Hotel Alto Lido",
+"building=hotel",
+32.638336,
+-16.936177,
+"relation"
+],
+[
+"Hotel Casino Park D",
+"highway=bus_stop",
+32.645033,
+-16.917178,
+"node"
+],
+[
+"Hotel Casino Park S",
+"highway=bus_stop",
+32.644935,
+-16.917755,
+"node"
+],
+[
+"Igreja de Santa Luzia",
+"amenity=place_of_worship",
+32.654392,
+-16.908631,
+"way"
+],
+[
+"Igreja de São João Evangelista do Colégio do Funchal",
+"amenity=place_of_worship",
+32.649911,
+-16.909068,
+"way"
+],
+[
+"Jardim Almirante Reis",
+"leisure=park",
+32.647254,
+-16.901706,
+"way"
+],
+[
+"Jardim Municipal",
+"amenity=taxi",
+32.647269,
+-16.911793,
+"node"
+],
+[
+"Jardim Municipal",
+"tourism=information",
+32.647335,
+-16.911713,
+"node"
+],
+[
+"Jardim Municipal do Funchal",
+"leisure=park",
+32.647816,
+-16.91151,
+"way"
+],
+[
+"Jardim de Santa Luzia",
+"amenity=cafe",
+32.654014,
+-16.911534,
+"node"
+],
+[
+"Jardim de Santa Luzia",
+"leisure=park",
+32.653944,
+-16.911728,
+"way"
+],
+[
+"Jardim de Santa Luzia",
+"tourism=attraction",
+32.653394,
+-16.911549,
+"node"
+],
+[
+"Jardim do Campo da Barca",
+"natural=wood",
+32.651254,
+-16.902045,
+"way"
+],
+[
+"Jardim do Lido",
+"leisure=park",
+32.636282,
+-16.933193,
+"way"
+],
+[
+"Jardins da Fortaleza",
+"tourism=viewpoint",
+32.650685,
+-16.916657,
+"node"
+],
+[
+"Jardins de Santa Luzia",
+"",
+32.653944,
+-16.911728,
+"relation"
+],
+[
+"Jard·in Magnólia",
+"amenity=restaurant",
+32.64381,
+-16.925105,
+"node"
+],
+[
+"Junta de Freguesia da Sé",
+"amenity=townhall",
+32.64992,
+-16.906702,
+"node"
+],
+[
+"Junta de Freguesia de Santa Luzia",
+"amenity=townhall",
+32.652692,
+-16.908289,
+"node"
+],
+[
+"Lagoa do Parque de Santa Catarina",
+"natural=water",
+32.645298,
+-16.914767,
+"relation"
+],
+[
+"Lido",
+"",
+32.635753,
+-16.932686,
+"node"
+],
+[
+"Lido",
+"amenity=pharmacy",
+32.637912,
+-16.931652,
+"node"
+],
+[
+"Lido",
+"place=neighbourhood",
+32.637783,
+-16.932182,
+"node"
+],
+[
+"Lido Beach Club",
+"amenity=restaurant",
+32.635935,
+-16.932553,
+"node"
+],
+[
+"Lido Nascente",
+"tourism=viewpoint",
+32.635944,
+-16.931787,
+"node"
+],
+[
+"Lido Poente",
+"tourism=viewpoint",
+32.636081,
+-16.934325,
+"node"
+],
+[
+"Lido Ticket Office",
+"building=retail",
+32.635736,
+-16.932776,
+"way"
+],
+[
+"Lido Tours Travel Agency",
+"shop=travel_agency",
+32.647883,
+-16.90837,
+"node"
+],
+[
+"Lido's Tavern",
+"amenity=cafe",
+32.638528,
+-16.934005,
+"node"
+],
+[
+"Ludoteca Santa Catarina",
+"building=kindergarten",
+32.644572,
+-16.914904,
+"way"
+],
+[
+"Madeira Story Centre",
+"tourism=museum",
+32.647859,
+-16.902498,
+"node"
+],
+[
+"Marina",
+"highway=bus_stop",
+32.646426,
+-16.910931,
+"node"
+],
+[
+"Marina",
+"highway=bus_stop",
+32.646562,
+-16.910384,
+"node"
+],
+[
+"Marina",
+"place=locality",
+32.645919,
+-16.909623,
+"node"
+],
+[
+"Marina Molhe E Head",
+"",
+32.644753,
+-16.910748,
+"node"
+],
+[
+"Marina Molhe W Head",
+"",
+32.644945,
+-16.911123,
+"node"
+],
+[
+"Marina Shopping",
+"building=yes",
+32.646553,
+-16.912237,
+"relation"
+],
+[
+"Marina Shopping",
+"shop=mall",
+32.646553,
+-16.912237,
+"way"
+],
+[
+"Marina do Funchal",
+"highway=footway",
+32.64522,
+-16.911297,
+"way"
+],
+[
+"Marina do Funchal",
+"highway=pedestrian",
+32.645155,
+-16.909952,
+"way"
+],
+[
+"Marina do Funchal",
+"highway=pedestrian",
+32.645586,
+-16.909242,
+"way"
+],
+[
+"Marina do Funchal",
+"highway=pedestrian",
+32.645742,
+-16.909281,
+"way"
+],
+[
+"Marina do Funchal",
+"highway=pedestrian",
+32.645986,
+-16.910362,
+"way"
+],
+[
+"Marina do Funchal",
+"highway=pedestrian",
+32.645989,
+-16.909345,
+"way"
+],
+[
+"Marina do Funchal",
+"highway=service",
+32.645549,
+-16.911344,
+"way"
+],
+[
+"Marina do Funchal",
+"leisure=marina",
+32.645534,
+-16.910302,
+"way"
+],
+[
+"Marina do Funchal, serviços administrativos",
+"",
+32.646269,
+-16.910332,
+"node"
+],
+[
+"Mercado dos Lavradores",
+"tourism=attraction",
+32.648699,
+-16.903787,
+"relation"
+],
+[
+"Mirante Quinta Vigia",
+"building=office",
+32.643862,
+-16.915356,
+"way"
+],
+[
+"Monumental Lido",
+"highway=bus_stop",
+32.63829,
+-16.931313,
+"node"
+],
+[
+"Monumental Lido Café Bar",
+"amenity=cafe",
+32.638461,
+-16.931227,
+"node"
+],
+[
+"Monumental Lido Medical Center",
+"amenity=clinic",
+32.638371,
+-16.931295,
+"node"
+],
+[
+"Museu CR7",
+"tourism=museum",
+32.644118,
+-16.913847,
+"node"
+],
+[
+"Museu de História Natural do Funchal",
+"tourism=museum",
+32.649592,
+-16.912147,
+"way"
+],
+[
+"Núcleo Museológico do Palácio de São Lourenço",
+"tourism=museum",
+32.647282,
+-16.91026,
+"node"
+],
+[
+"Padaria Sésamo",
+"shop=bakery",
+32.647796,
+-16.930337,
+"node"
+],
+[
+"Palácio de São Lourenço",
+"building=yes",
+32.647128,
+-16.910194,
+"way"
+],
+[
+"Papelaria Do Colégio",
+"shop=stationery",
+32.6494,
+-16.909357,
+"node"
+],
+[
+"Parque Almirante Reis",
+"amenity=parking",
+32.647432,
+-16.903371,
+"way"
+],
+[
+"Parque Praça CR7",
+"highway=service",
+32.643229,
+-16.91551,
+"way"
+],
+[
+"Parque Santa Catarina",
+"leisure=park",
+32.645189,
+-16.914241,
+"relation"
+],
+[
+"Parque Santa Luzia",
+"amenity=parking",
+32.652089,
+-16.909905,
+"node"
+],
+[
+"Parque Santa Luzia",
+"amenity=parking_entrance",
+32.652187,
+-16.909989,
+"node"
+],
+[
+"Passeio Marítimo (Lido - Doca do Cavacas)",
+"",
+32.635221,
+-16.940102,
+"relation"
+],
+[
+"Pastelaria Boutique Lido",
+"shop=bakery;pastry",
+32.638222,
+-16.932154,
+"node"
+],
+[
+"Pestana CR7",
+"tourism=hotel",
+32.643834,
+-16.914308,
+"relation"
+],
+[
+"Pestana Casino Park",
+"tourism=hotel",
+32.643803,
+-16.917113,
+"relation"
+],
+[
+"Pestana Casino Studios",
+"tourism=hotel",
+32.644526,
+-16.91809,
+"way"
+],
+[
+"Pestana Vila Lido",
+"tourism=hotel",
+32.636454,
+-16.930871,
+"way"
+],
+[
+"Placa Central da Avenida Arriaga",
+"highway=pedestrian",
+32.646935,
+-16.912327,
+"way"
+],
+[
+"Placa Central da Avenida Arriaga",
+"highway=pedestrian",
+32.647491,
+-16.910736,
+"way"
+],
+[
+"Placa Central da Avenida Arriaga",
+"highway=pedestrian",
+32.647924,
+-16.909322,
+"way"
+],
+[
+"Plaza Madeira",
+"shop=mall",
+32.64772,
+-16.914031,
+"relation"
+],
+[
+"Ponte do Campo da Barca",
+"",
+32.651865,
+-16.902112,
+"way"
+],
+[
+"Porto Santa Maria",
+"tourism=hotel",
+32.647183,
+-16.90011,
+"way"
+],
+[
+"Portão de Fortaleza",
+"",
+32.646787,
+-16.898796,
+"node"
+],
+[
+"Portão de São Tiago",
+"historic=city_gate",
+32.647029,
+-16.899235,
+"way"
+],
+[
+"Posto SIGA Marina",
+"shop=ticket",
+32.646447,
+-16.910401,
+"way"
+],
+[
+"Praia de São Tiago",
+"natural=shingle",
+32.646493,
+-16.899164,
+"way"
+],
+[
+"Praia do Almirante Reis",
+"natural=shingle",
+32.646381,
+-16.901958,
+"way"
+],
+[
+"Praça CR7",
+"highway=footway",
+32.643753,
+-16.914211,
+"way"
+],
+[
+"Praça CR7",
+"highway=pedestrian",
+32.64372,
+-16.914193,
+"way"
+],
+[
+"Praça da Magnólia",
+"place=square",
+32.643946,
+-16.925077,
+"way"
+],
+[
+"Promenade Almirante Reis",
+"highway=service",
+32.64669,
+-16.901842,
+"way"
+],
+[
+"Promenade Almirante Reis",
+"highway=service",
+32.646713,
+-16.899845,
+"way"
+],
+[
+"Promenade Almirante Reis",
+"highway=service",
+32.646832,
+-16.904233,
+"way"
+],
+[
+"Quinta Bela São Tiago",
+"tourism=hotel",
+32.647848,
+-16.897407,
+"way"
+],
+[
+"Quinta Magnólia",
+"building=yes",
+32.643695,
+-16.9252,
+"way"
+],
+[
+"Quinta Magnólia",
+"leisure=park",
+32.64399,
+-16.924222,
+"way"
+],
+[
+"Quinta Magnólia",
+"place=neighbourhood",
+32.644027,
+-16.923662,
+"node"
+],
+[
+"Quinta Magnólia D",
+"highway=bus_stop",
+32.643337,
+-16.925197,
+"node"
+],
+[
+"Quinta Magnólia S",
+"highway=bus_stop",
+32.643462,
+-16.925195,
+"node"
+],
+[
+"Quinta Vigia",
+"building=yes",
+32.644872,
+-16.915749,
+"way"
+],
+[
+"Quinta Vigia",
+"place=neighbourhood",
+32.644811,
+-16.915289,
+"node"
+],
+[
+"Quinta Vigia",
+"tourism=viewpoint",
+32.644187,
+-16.914991,
+"node"
+],
+[
+"Quinta de Santa Luzia",
+"",
+32.659562,
+-16.907681,
+"way"
+],
+[
+"Quinta de Santa Luzia",
+"tourism=guest_house",
+32.658025,
+-16.907406,
+"node"
+],
+[
+"Quiosque Almirante Reis",
+"shop=kiosk",
+32.647466,
+-16.901925,
+"way"
+],
+[
+"Rampa do Lido",
+"highway=bus_stop",
+32.638514,
+-16.934631,
+"node"
+],
+[
+"Rampa do Lido",
+"highway=service",
+32.63864,
+-16.934805,
+"way"
+],
+[
+"Rampa do Lido",
+"highway=service",
+32.638799,
+-16.934952,
+"way"
+],
+[
+"Rampa do Lido",
+"highway=service",
+32.638863,
+-16.93454,
+"way"
+],
+[
+"Ribeira de Santa Luzia",
+"",
+32.649655,
+-16.907252,
+"way"
+],
+[
+"Ribeira de Santa Luzia",
+"",
+32.652527,
+-16.910188,
+"way"
+],
+[
+"Ribeira de Santa Luzia",
+"",
+32.652787,
+-16.910906,
+"way"
+],
+[
+"Ribeira de Santa Luzia",
+"",
+32.653304,
+-16.911919,
+"way"
+],
+[
+"Ribeira de Santa Luzia",
+"",
+32.654429,
+-16.913798,
+"way"
+],
+[
+"Ribeira de Santa Luzia",
+"",
+32.65511,
+-16.914917,
+"way"
+],
+[
+"Ribeira de Santa Luzia",
+"",
+32.656506,
+-16.917008,
+"way"
+],
+[
+"Ribeira de Santa Luzia",
+"",
+32.6579,
+-16.918961,
+"way"
+],
+[
+"Ribeira de Santa Luzia",
+"",
+32.658695,
+-16.91898,
+"way"
+],
+[
+"Ribeira de Santa Luzia",
+"",
+32.68938,
+-16.918306,
+"relation"
+],
+[
+"Rotunda Plaza Madeira",
+"",
+32.647018,
+-16.9139,
+"way"
+],
+[
+"Rotunda Plaza Madeira",
+"highway=secondary",
+32.646918,
+-16.913924,
+"way"
+],
+[
+"Rotunda Plaza Madeira",
+"highway=secondary",
+32.646957,
+-16.914064,
+"way"
+],
+[
+"Rotunda Plaza Madeira",
+"highway=secondary",
+32.64697,
+-16.913763,
+"way"
+],
+[
+"Rotunda Plaza Madeira",
+"highway=secondary",
+32.647055,
+-16.91372,
+"way"
+],
+[
+"Rotunda Plaza Madeira",
+"highway=secondary",
+32.647061,
+-16.914015,
+"way"
+],
+[
+"Rotunda Plaza Madeira",
+"highway=secondary",
+32.647119,
+-16.913799,
+"way"
+],
+[
+"Rotunda Plaza Madeira",
+"highway=secondary",
+32.647128,
+-16.9139,
+"way"
+],
+[
+"Rotunda da Quinta Magnólia",
+"",
+32.646199,
+-16.92415,
+"way"
+],
+[
+"Rotunda da Quinta Magnólia",
+"highway=secondary",
+32.646022,
+-16.9241,
+"way"
+],
+[
+"Rotunda da Quinta Magnólia",
+"highway=secondary",
+32.646067,
+-16.924237,
+"way"
+],
+[
+"Rotunda da Quinta Magnólia",
+"highway=secondary",
+32.64611,
+-16.924001,
+"way"
+],
+[
+"Rotunda da Quinta Magnólia",
+"highway=secondary",
+32.646195,
+-16.924353,
+"way"
+],
+[
+"Rotunda da Quinta Magnólia",
+"highway=secondary",
+32.646226,
+-16.923941,
+"way"
+],
+[
+"Rotunda da Quinta Magnólia",
+"highway=secondary",
+32.646313,
+-16.924014,
+"way"
+],
+[
+"Rotunda da Quinta Magnólia",
+"highway=secondary",
+32.646324,
+-16.924233,
+"way"
+],
+[
+"Rotunda da Quinta Magnólia",
+"highway=secondary",
+32.646371,
+-16.924101,
+"way"
+],
+[
+"Rua Bela São Tiago",
+"highway=bus_stop",
+32.648369,
+-16.898682,
+"node"
+],
+[
+"Rua Bela de São Tiago",
+"highway=residential",
+32.647569,
+-16.896652,
+"way"
+],
+[
+"Rua Bela de São Tiago",
+"highway=residential",
+32.648074,
+-16.897454,
+"way"
+],
+[
+"Rua Bela de São Tiago",
+"highway=residential",
+32.648305,
+-16.898314,
+"way"
+],
+[
+"Rua Bela de São Tiago",
+"highway=residential",
+32.648397,
+-16.899166,
+"way"
+],
+[
+"Rua Bela de São Tiago",
+"highway=residential",
+32.648476,
+-16.89989,
+"way"
+],
+[
+"Rua Bela de São Tiago",
+"highway=residential",
+32.648527,
+-16.900353,
+"way"
+],
+[
+"Rua Bela de São Tiago",
+"highway=residential",
+32.648592,
+-16.900923,
+"way"
+],
+[
+"Rua Bela de São Tiago",
+"highway=residential",
+32.648645,
+-16.901383,
+"way"
+],
+[
+"Rua Bela de São Tiago",
+"highway=residential",
+32.648659,
+-16.90149,
+"way"
+],
+[
+"Rua Bela de São Tiago",
+"highway=residential",
+32.64869,
+-16.901735,
+"way"
+],
+[
+"Rua Bela de São Tiago",
+"highway=residential",
+32.648725,
+-16.902014,
+"way"
+],
+[
+"Rua Colégio Militar T-44",
+"highway=bus_stop",
+32.644174,
+-16.933486,
+"node"
+],
+[
+"Rua Portão de São Tiago",
+"highway=pedestrian",
+32.647216,
+-16.899286,
+"way"
+],
+[
+"Rua Portão de São Tiago",
+"highway=pedestrian",
+32.647425,
+-16.899771,
+"way"
+],
+[
+"Rua Portão de São Tiago",
+"highway=service",
+32.647112,
+-16.899074,
+"way"
+],
+[
+"Rua Santa Luzia",
+"highway=bus_stop",
+32.656545,
+-16.907764,
+"node"
+],
+[
+"Rua Santa Luzia 67",
+"highway=bus_stop",
+32.65488,
+-16.90843,
+"node"
+],
+[
+"Rua da Sé",
+"highway=pedestrian",
+32.647964,
+-16.908285,
+"way"
+],
+[
+"Rua da Sé",
+"highway=pedestrian",
+32.648092,
+-16.907566,
+"way"
+],
+[
+"Rua da Sé",
+"highway=service",
+32.648049,
+-16.907869,
+"way"
+],
+[
+"Rua de Santa Luzia",
+"highway=residential",
+32.653699,
+-16.908587,
+"way"
+],
+[
+"Rua de Santa Luzia",
+"highway=residential",
+32.655557,
+-16.908079,
+"way"
+],
+[
+"Rua de Santa Luzia",
+"highway=residential",
+32.657019,
+-16.907558,
+"way"
+],
+[
+"Rua de Santa Luzia",
+"highway=residential",
+32.658055,
+-16.906997,
+"way"
+],
+[
+"Rua de Santa Maria",
+"highway=living_street",
+32.646956,
+-16.897811,
+"way"
+],
+[
+"Rua de Santa Maria",
+"highway=living_street",
+32.647047,
+-16.898336,
+"way"
+],
+[
+"Rua de Santa Maria",
+"highway=living_street",
+32.647174,
+-16.898691,
+"way"
+],
+[
+"Rua de Santa Maria",
+"highway=living_street",
+32.647357,
+-16.899124,
+"way"
+],
+[
+"Rua de Santa Maria",
+"highway=living_street",
+32.647619,
+-16.899622,
+"way"
+],
+[
+"Rua de Santa Maria",
+"highway=living_street",
+32.647836,
+-16.900075,
+"way"
+],
+[
+"Rua de Santa Maria",
+"highway=living_street",
+32.647907,
+-16.900414,
+"way"
+],
+[
+"Rua de Santa Maria",
+"highway=pedestrian",
+32.647886,
+-16.900688,
+"way"
+],
+[
+"Rua de Santa Maria",
+"highway=pedestrian",
+32.647893,
+-16.900757,
+"way"
+],
+[
+"Rua de Santa Maria",
+"highway=pedestrian",
+32.647948,
+-16.901145,
+"way"
+],
+[
+"Rua de Santa Maria",
+"highway=pedestrian",
+32.648017,
+-16.901639,
+"way"
+],
+[
+"Rua de Santa Maria",
+"highway=pedestrian",
+32.648058,
+-16.901978,
+"way"
+],
+[
+"Rua de Santa Maria",
+"highway=pedestrian",
+32.648083,
+-16.902414,
+"way"
+],
+[
+"Rua de Santa Maria",
+"highway=pedestrian",
+32.648095,
+-16.9039,
+"way"
+],
+[
+"Rua de Santa Maria",
+"highway=pedestrian",
+32.648097,
+-16.902963,
+"way"
+],
+[
+"Rua de Santa Maria",
+"highway=residential",
+32.647905,
+-16.900609,
+"way"
+],
+[
+"Rua do Edifício Século XXI",
+"highway=service",
+32.646517,
+-16.918988,
+"way"
+],
+[
+"Rua do Matadouro;03 - Campo da Barca",
+"highway=bus_stop",
+32.651764,
+-16.902348,
+"node"
+],
+[
+"Santa Catarina",
+"amenity=cafe",
+32.644895,
+-16.915016,
+"node"
+],
+[
+"Santa Catarina",
+"tourism=viewpoint",
+32.644992,
+-16.913846,
+"node"
+],
+[
+"Santa Luzia",
+"",
+32.658391,
+-16.90451,
+"relation"
+],
+[
+"Santa Maria",
+"amenity=pharmacy",
+32.648614,
+-16.903215,
+"node"
+],
+[
+"Santa Maria",
+"amenity=restaurant",
+32.647994,
+-16.901176,
+"node"
+],
+[
+"Santa Maria",
+"tourism=hostel",
+32.647983,
+-16.901129,
+"node"
+],
+[
+"Santa Maria Maior",
+"",
+32.667032,
+-16.888696,
+"relation"
+],
+[
+"Santa Maria de Colombo",
+"shop=ticket",
+32.645967,
+-16.908454,
+"node"
+],
+[
+"Santa Maria de Colombo",
+"tourism=attraction",
+32.645701,
+-16.908841,
+"node"
+],
+[
+"Sé",
+"",
+31.340151,
+-16.388739,
+"relation"
+],
+[
+"Sé",
+"amenity=taxi",
+32.64811,
+-16.908899,
+"node"
+],
+[
+"Sé",
+"place=suburb",
+32.648077,
+-16.908798,
+"node"
+],
+[
+"Sé Boutique",
+"tourism=hotel",
+32.648486,
+-16.907286,
+"node"
+],
+[
+"Sé Dourada",
+"amenity=restaurant",
+32.64772,
+-16.908735,
+"node"
+],
+[
+"Sé do Funchal",
+"amenity=place_of_worship",
+32.648216,
+-16.90823,
+"way"
+],
+[
+"Taberna da Sé",
+"amenity=restaurant",
+32.647572,
+-16.909125,
+"node"
+],
+[
+"Teleférico Madeira",
+"shop=ticket",
+32.647238,
+-16.902248,
+"node"
+],
+[
+"Teleférico do Funchal",
+"aerialway=gondola",
+32.661411,
+-16.901218,
+"relation"
+],
+[
+"Teleférico do Funchal",
+"tourism=attraction",
+32.661339,
+-16.901193,
+"way"
+],
+[
+"Teleférico-Término",
+"",
+32.647379,
+-16.902801,
+"relation"
+],
+[
+"Teleférico-Término",
+"highway=bus_stop",
+32.646971,
+-16.903382,
+"node"
+],
+[
+"Teleférico-Término",
+"highway=bus_stop",
+32.647386,
+-16.90277,
+"way"
+],
+[
+"Teleférico-Término",
+"highway=bus_stop",
+32.647403,
+-16.902789,
+"node"
+],
+[
+"Torre da Igreja do Colégio",
+"tourism=viewpoint",
+32.649877,
+-16.908887,
+"node"
+],
+[
+"Turim Santa Maria",
+"tourism=hotel",
+32.651222,
+-16.903485,
+"node"
+],
+[
+"Universidade Sénior do Funchal",
+"amenity=college",
+32.647153,
+-16.931772,
+"way"
+],
+[
+"Universo de Memórias João Carlos Abreu",
+"tourism=museum",
+32.65114,
+-16.913354,
+"node"
+],
+[
+"Viaduto Santa Luzia",
+"",
+32.652736,
+-16.910038,
+"way"
+],
+[
+"Viaduto do Campo da Barca",
+"",
+32.652589,
+-16.901807,
+"way"
+],
+[
+"Villa São Tiago",
+"tourism=guest_house",
+32.647569,
+-16.896723,
+"node"
+],
+[
+"da Sé",
+"amenity=cafe",
+32.647785,
+-16.908494,
+"node"
+]
+]

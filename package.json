@@ -1,0 +1,14 @@
+{
+  "name": "cba-suites-madeira",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Сайт CBA Suites Madeira (Фуншал): статичний, 4 мови, гео-SEO.",
+  "type": "module",
+  "scripts": {
+    "images": "python tools/images.py",
+    "map": "python tools/map.py",
+    "build": "node build.mjs",
+    "all": "python tools/images.py && python tools/map.py && node build.mjs",
+    "serve": "python -m http.server 5250 --bind 127.0.0.1 --directory dist"
+  }
+}

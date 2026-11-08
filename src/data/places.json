@@ -1,0 +1,61 @@
+{
+  "_note": "Координати з OpenStreetMap. walk — місця для карти «пішки від готелю» (маршрути: assets/osm/walk.json). tours — місця турів, drive — хв авто від готелю (OSRM × 1.15, округлено до 5).",
+  "hotel": { "lat": 32.648275, "lon": -16.918311 },
+  "walk": [
+    { "id": "plaza",      "cat": "taste", "lat": 32.647720, "lon": -16.914031 },
+    { "id": "casino",     "cat": "sea",   "lat": 32.643968, "lon": -16.916082 },
+    { "id": "natural",    "cat": "sight", "lat": 32.649592, "lon": -16.912147 },
+    { "id": "catarina",   "cat": "green", "lat": 32.645189, "lon": -16.914241 },
+    { "id": "freitas",    "cat": "sight", "lat": 32.649890, "lon": -16.912345 },
+    { "id": "municipal",  "cat": "green", "lat": 32.647816, "lon": -16.911510 },
+    { "id": "pico",       "cat": "sight", "lat": 32.650877, "lon": -16.916385 },
+    { "id": "cr7",        "cat": "sight", "lat": 32.644118, "lon": -16.913847 },
+    { "id": "blandys",    "cat": "taste", "lat": 32.647827, "lon": -16.910578 },
+    { "id": "marina",     "cat": "sea",   "lat": 32.645534, "lon": -16.910302 },
+    { "id": "luzia",      "cat": "green", "lat": 32.653944, "lon": -16.911728 },
+    { "id": "se",         "cat": "sight", "lat": 32.648100, "lon": -16.908150 },
+    { "id": "magnolia",   "cat": "green", "lat": 32.643990, "lon": -16.924222 },
+    { "id": "mercado",    "cat": "taste", "lat": 32.648699, "lon": -16.903787 },
+    { "id": "story",      "cat": "sight", "lat": 32.647859, "lon": -16.902498 },
+    { "id": "cablecar",   "cat": "sea",   "lat": 32.647550, "lon": -16.902350 },
+    { "id": "almirante",  "cat": "sea",   "lat": 32.646381, "lon": -16.901958 },
+    { "id": "santamaria", "cat": "taste", "lat": 32.647994, "lon": -16.901176 },
+    { "id": "saotiago",   "cat": "sight", "lat": 32.646669, "lon": -16.898650 },
+    { "id": "lido",       "cat": "sea",   "lat": 32.635576, "lon": -16.932601 }
+  ],
+  "near": [
+    { "id": "bus",      "m": 76 },
+    { "id": "sam",      "m": 242 },
+    { "id": "pharmacy", "m": 367 },
+    { "id": "taxi",     "m": 411 },
+    { "id": "pingo",    "m": 430 },
+    { "id": "eat",      "m": 500, "n": 42 }
+  ],
+  "areas": [
+    { "id": "Zona Velha",  "lat": 32.6500, "lon": -16.9010 },
+    { "id": "Sé",          "lat": 32.6502, "lon": -16.9080 },
+    { "id": "Santa Luzia", "lat": 32.6560, "lon": -16.9085 },
+    { "id": "São Pedro",   "lat": 32.6512, "lon": -16.9205 },
+    { "id": "Lido",        "lat": 32.6385, "lon": -16.9340 }
+  ],
+  "tours": [
+    { "id": "arieiro",    "photo": "t-arieiro",    "type": "peaks",    "lat": 32.7357, "lon": -16.9289, "drive": 35 },
+    { "id": "monte",      "photo": "t-monte",      "type": "gardens",  "lat": 32.6750, "lon": -16.9025, "drive": 10 },
+    { "id": "botanico",   "photo": "t-botanico",   "type": "gardens",  "lat": 32.6622, "lon": -16.8958, "drive": 10 },
+    { "id": "girao",      "photo": "t-girao",      "type": "coast",    "lat": 32.6560, "lon": -17.0040, "drive": 20 },
+    { "id": "camara",     "photo": "t-camara",     "type": "villages", "lat": 32.6480, "lon": -16.9770, "drive": 15 },
+    { "id": "curral",     "photo": "t-curral",     "type": "peaks",    "lat": 32.7116, "lon": -16.9611, "drive": 25 },
+    { "id": "balcoes",    "photo": "t-balcoes",    "type": "levadas",  "lat": 32.7390, "lon": -16.8840, "drive": 30 },
+    { "id": "caldeirao",  "photo": "t-caldeirao",  "type": "levadas",  "lat": 32.7750, "lon": -16.9150, "drive": 65 },
+    { "id": "fanal",      "photo": "t-fanal",      "type": "levadas",  "lat": 32.8100, "lon": -17.1450, "drive": 60 },
+    { "id": "moniz",      "photo": "t-moniz",      "type": "coast",    "lat": 32.8680, "lon": -17.1700, "drive": 65 },
+    { "id": "seixal",     "photo": "t-seixal",     "type": "coast",    "lat": 32.8240, "lon": -17.1110, "drive": 55 },
+    { "id": "veu",        "photo": "t-veu",        "type": "coast",    "lat": 32.8200, "lon": -17.0950, "drive": 50 },
+    { "id": "santana",    "photo": "t-santana",    "type": "villages", "lat": 32.8086, "lon": -16.8812, "drive": 50 },
+    { "id": "lourenco",   "photo": "t-lourenco",   "type": "peaks",    "lat": 32.7442, "lon": -16.7076, "drive": 40 },
+    { "id": "pontasol",   "photo": "t-pontasol",   "type": "villages", "lat": 32.6800, "lon": -17.1000, "drive": 30 },
+    { "id": "yacht",      "photo": "t-yacht",      "type": "sea",      "lat": 32.6150, "lon": -16.9000, "walk": "marina" },
+    { "id": "desertas",   "photo": "t-desertas",   "type": "sea",      "lat": 32.5200, "lon": -16.5100, "walk": "marina" },
+    { "id": "portosanto", "photo": "t-portosanto", "type": "sea",      "lat": 33.0600, "lon": -16.3400, "ferry": true }
+  ]
+}
