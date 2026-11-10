@@ -2,7 +2,7 @@
 
 > Studios and suites from 32 to 78 m² with kitchenettes, balconies over Funchal bay and an outdoor pool. 8 minutes' walk to the Casino, 16 to the Cathedral. Rated 8.4 on Booking.com.
 
-CBA Suites Madeira is a small boutique aparthotel (Alojamento Local licence 107149/AL) at Calçada da Caboqueira 54, São Pedro, 9000-900 Funchal, Madeira, Portugal (32.648275, -16.918311; Plus Code J3XJ+8M). It is managed by Madeira Luxury Villas. The site is available in English, Ukrainian, Portuguese and German.
+CBA Suites Madeira is a small boutique aparthotel (Alojamento Local licence 107149/AL) at Calçada da Caboqueira 54, São Pedro, 9000-900 Funchal, Madeira, Portugal (32.648275, -16.918311; Plus Code J3XJ+8M). It is managed by Madeira Luxury Villas. The site is available in English, Ukrainian, Portuguese, German, French, Polish, and Russian.
 
 ## Key facts
 - Outdoor swimming pool open all year, in a garden walled with Madeiran basalt; sun terrace and sunbeds.
@@ -95,6 +95,9 @@ CBA Suites Madeira is a small boutique aparthotel (Alojamento Local licence 1071
 - Українська: https://sky11astra.github.io/cba-suites-madeira/uk/
 - Português: https://sky11astra.github.io/cba-suites-madeira/pt/
 - Deutsch: https://sky11astra.github.io/cba-suites-madeira/de/
+- Français: https://sky11astra.github.io/cba-suites-madeira/fr/
+- Polski: https://sky11astra.github.io/cba-suites-madeira/pl/
+- Русский: https://sky11astra.github.io/cba-suites-madeira/ru/
 
 ## Contact
 - Phone / WhatsApp: +351 917 580 072

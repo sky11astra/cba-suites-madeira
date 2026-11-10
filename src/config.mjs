@@ -33,6 +33,9 @@ export default {
     { code: "en", dir: "",    hreflang: "en", label: "EN", name: "English",    ogLocale: "en_GB", locale: "en-GB" },
     { code: "uk", dir: "uk/", hreflang: "uk", label: "UA", name: "Українська", ogLocale: "uk_UA", locale: "uk-UA" },
     { code: "pt", dir: "pt/", hreflang: "pt", label: "PT", name: "Português",  ogLocale: "pt_PT", locale: "pt-PT" },
-    { code: "de", dir: "de/", hreflang: "de", label: "DE", name: "Deutsch",    ogLocale: "de_DE", locale: "de-DE" }
+    { code: "de", dir: "de/", hreflang: "de", label: "DE", name: "Deutsch",    ogLocale: "de_DE", locale: "de-DE" },
+    { code: "fr", dir: "fr/", hreflang: "fr", label: "FR", name: "Français",   ogLocale: "fr_FR", locale: "fr-FR" },
+    { code: "pl", dir: "pl/", hreflang: "pl", label: "PL", name: "Polski",     ogLocale: "pl_PL", locale: "pl-PL" },
+    { code: "ru", dir: "ru/", hreflang: "ru", label: "RU", name: "Русский",    ogLocale: "ru_RU", locale: "ru-RU" }
   ]
 };
